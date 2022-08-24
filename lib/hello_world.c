@@ -5,7 +5,12 @@
 
 #include "hello_world.h"
 
-void simple_hello(){}
-void greet(char* target){}
+void simple_hello()
+{
+    printf("Hello World!\n");
+}
+void greet(char* target){
+
+}
 void say_goodbye(char* target){}
 void reverse_greet(char* target){}
